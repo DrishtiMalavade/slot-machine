@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a simple console-based slot machine game implemented in Python. Players can deposit money, choose the number of lines to bet on, and spin the slot machine to see if they win or lose.
+This is a simple console-based slot machine game implemented in Python. Players can deposit money, choose the number of lines to bet on, and spin the slot machine to see if they win or lose. This project still needs some work and bugs which needs to be fixed. Contributions are appreciated.
 
 ## How to Play
 
@@ -12,20 +12,6 @@ This is a simple console-based slot machine game implemented in Python. Players 
 3. **Bet:** Specify the amount to bet per line.
 4. **Spin:** Watch the slot machine spin and check if you win or lose.
 5. **Repeat:** Decide if you want to play another round.
-
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/DrishtiMalavade/slot-machine.git
-   ```
-
-2. Run the game:
-
-   ```bash
-   python slot_machine.py
-   ```
 
 ## Gameplay
 
@@ -39,8 +25,5 @@ This is a simple console-based slot machine game implemented in Python. Players 
 - The game is console-based, providing a simple and fun experience.
 - Feel free to customize the code or contribute improvements.
 
-## Requirements
-
-- Python 3.x
 
 Enjoy the game and have fun coding!
